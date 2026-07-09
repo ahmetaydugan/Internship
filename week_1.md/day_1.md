@@ -1,6 +1,6 @@
-## Day 1: 
+## Day 1 - Setup and Getting Started:
 
-I made a productive start to the first day of my internship. Today, I mainly focused on perfecting my working environment and gaining an introduction to the fundamentals of artificial intelligence from a historical perspective.
+I had a productive start to my first day of internship at Turkcell. Today, I mainly focused on perfecting my working environment and gaining an introduction to the fundamentals of artificial intelligence from a historical perspective.
 
 **1. Setting Up the Working Environment**
 I started the day by setting up my technical infrastructure. I installed Python and configured VS Code as my main development environment. To keep my project dependencies isolated and well-organized, I also completed the setup of virtualenv. Starting with a clean and isolated workspace means preventing potential version conflicts in future complex projects, which gives me confidence.
