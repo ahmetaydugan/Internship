@@ -6,9 +6,9 @@ This repository is created to regularly track and report the artificial intellig
 
 The standard work schedule followed every day during the internship is as follows:
 
-*   **Academic Block (1 - 1.5 Hours):** Readings and video tutorials planned to establish the foundations of artificial intelligence.
-*   **Practical Coding Task (2 - 3 Hours):** Translating the theoretical knowledge learned in the academic block into code and implementing algorithms.
-*   **Daily Team Operations (Remaining Time):** Daily operational tasks and team support duties communicated via email.
+*   **Academic Block:** Readings and video tutorials planned to establish the foundations of artificial intelligence.
+*   **Practical Coding Task:** Translating the theoretical knowledge learned in the academic block into code and implementing algorithms.
+*   **Daily Team Operations:** Daily operational tasks and team support duties communicated via email.
 *   **Friday Presentations:** A 15-minute brief presentation every Friday to share the week's learnings and completed projects.
 
 ---
