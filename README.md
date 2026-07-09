@@ -1,6 +1,6 @@
 # Artificial Intelligence and Operational Processes Internship Log
 
-This repository is created to regularly track and report the artificial intelligence fundamentals I acquire, practical coding tasks, and daily operational processes throughout my internship program.
+This repository is created to regularly track and report the artificial intelligence fundamentals I acquire, practical coding tasks, and daily operational processes throughout my Turkcell internship program.
 
 ## Daily Work Rhythm
 
