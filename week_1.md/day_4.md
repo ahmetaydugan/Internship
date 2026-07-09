@@ -1,4 +1,4 @@
-## Day 4 — Victory and the Wall:
+## Day 4 - Victory and the Wall:
 On the fourth day of my internship, I experienced both a sense of victory and hit what felt like an insurmountable wall. Today was an unforgettable day where I moved from theory to practice and personally experienced one of the biggest crises in AI history by coding it myself.
 
 Practical Coding: Victory and the XOR Wall
