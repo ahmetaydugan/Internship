@@ -1,4 +1,4 @@
-## DAY 2: 
+## DAY 2 - Turing and the First Neuron:
 Turing, the First Artificial Neuron, and NumPy Warm-up
 On the second day of my internship, my focus was on bridging philosophy, biology, and mathematics before turning them into code. Today was all about understanding the roots of machine intelligence and preparing my practical toolkit for tomorrow.
 
