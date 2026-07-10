@@ -1,4 +1,4 @@
-## DAY 3 - Perceptron is Born:
+## Day 3 - Perceptron is Born:
 
 On the third day of my internship, I focused on the transition of artificial intelligence from its philosophical roots to its official emergence as a scientific discipline, while also strengthening my intuitive understanding of neural networks through visual learning.
 
