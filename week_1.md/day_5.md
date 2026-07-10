@@ -1,4 +1,4 @@
-## DAY 5 - Reflection, Reporting, and the AI Winter:
+## Day 5 - Reflection, Reporting, and the AI Winter:
 On the fifth and final day of my first internship week, I focused on consolidating my practical experiments into written analysis and presenting the historical context of AI's early failures, comparing them with today's rapid advancements.
 
 1.Written Report: Why the Perceptron Fails at XOR Following yesterday's practical roadblock, I wrote a short analytical note detailing my findings. I explained how the single-layer perceptron is fundamentally limited to solving linearly separable problems. Since the XOR logic gate requires a non-linear decision boundary, a simple perceptron simply cannot draw a single straight line to separate the inputs. Documenting this conceptually and mathematically solidified my understanding of why multi-layer networks later became an absolute necessity.
