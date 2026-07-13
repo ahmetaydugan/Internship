@@ -1,0 +1,10 @@
+## DAY 1 - The Golden Age of Rules:
+Starting a new week of my internship, I shifted my focus from the foundational neural networks to the era when symbolic AI and rule-based systems dominated the industry. Today was all about understanding how the 1980s defined intelligence and taking my first steps with a modern machine learning library.
+
+1.Academic Block: The Rise of Expert Systems I delved into the "Expert system" article on Wikipedia, paying special attention to historical milestones like MYCIN and XCON. It was fascinating to learn that back in the 1980s, AI wasn't just an abstract theoretical concept; it was a multi-million dollar industry driving corporate decisions. Seeing how early developers attempted to hardcode human expertise into machines showed me a completely different approach to artificial intelligence compared to the adaptable learning models we use today.
+
+2.Concept: The 5th Generation and the Rule-Based Illusion Alongside expert systems, I examined Japan's highly ambitious 5th Generation Computer project. The core assumption of that era—that "intelligence is built with rules"—is both brilliant and inherently limited. While trying to foresee and code every possible rule works for closed systems, realizing how fragile this approach becomes in the chaotic, unpredictable real world gave me a deep appreciation for the statistical learning methods that replaced it.
+
+3.Practical Coding: Enter Scikit-Learn and the Decision Tree Moving from the rigid theoretical rules of the past to modern practical tools, I set up scikit-learn today. As a warm-up exercise, I loaded the classic Iris dataset and trained my very first decision tree. Although this was just an introductory run to get my tools ready for tomorrow's heavier tasks, seeing how effortlessly modern libraries handle what would have taken thousands of lines of code in the 80s was incredibly motivating.
+
+Today perfectly connected the rigid, rule-based past of AI with the streamlined tools of the present, setting a solid foundation for the more complex algorithms I will be exploring tomorrow.
