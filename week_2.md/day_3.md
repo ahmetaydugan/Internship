@@ -1,0 +1,8 @@
+## Day 3 - Writing My Own Expert System:
+On the third day of my internship, I traveled back to the 1980s to step into the shoes of the engineers of that era. My task was to build a pure rule-based "expert system" from scratch using nested if-else logic, moving away from modern learning algorithms to understand how early AI functioned.
+
+1.Designing the Knowledge Base: I was given a synthetic JSON file containing server error logs. My first job was to act as the domain expert and design the rules. I had to decide which specific action (escalate, restart, ignore, watch) to take based on the combination of the service name, error code, and latency. This process made me realize how much human intuition and manual decision-making go into defining what a machine should do in symbolic AI.
+
+2.Practical Coding: The If-Else Labyrinth I wrote a Python script to parse the JSON data and pass it through my custom decision engine. Writing out the pure if-else blocks for every possible scenario was fun at first, but it quickly became complex. It felt exactly like I was manually hardcoding intelligence rather than creating a system that actually learns from the data.
+
+3.The Insight: Why the Golden Age Ended Completing this task gave me a profound understanding of why expert systems eventually hit a wall. While my small script worked perfectly for this specific dataset, I immediately saw the scaling problem. If a company added a hundred new microservices or new error codes, maintaining that massive wall of if-else statements would become an absolute nightmare. It was a perfect, hands-on lesson on why the industry ultimately had to pivot to statistical machine learning.
