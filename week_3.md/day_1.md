@@ -1,0 +1,10 @@
+## Day 1 - Search or Learning?:
+Starting a new week of my internship, I explored the historical boundary between search-based artificial intelligence and true machine learning, while also preparing my modern deep learning environment for the upcoming tasks.
+
+1.Historical Analysis: Deep Blue vs. Kasparov I analyzed the historic 1997 chess match between IBM's Deep Blue and world champion Garry Kasparov. While Deep Blue's victory was a monumental achievement in computing, I realized it relied heavily on brute force search—evaluating millions of positions per second—rather than actual "learning." Recognizing that being highly effective at calculating outcomes is fundamentally different from acquiring knowledge through experience set a crucial philosophical foundation for the rest of my week.
+
+2.Concept: Is Deep Blue Actually Smart? This historical context led me to question the exact line between symbolic/search-based AI and learning-based AI. Can we truly call a system "smart" if it simply searches through hardcoded evaluation functions and massive databases of moves without adapting to new patterns? Understanding this distinction made it perfectly clear why the industry eventually shifted away from raw computational search toward neural networks that can generalize and learn.
+
+3.Practical Coding: Colab Setup and Exploring MNIST Leaving the symbolic era behind, I transitioned to modern deep learning tools. I prepared my Google Colab environment and set up PyTorch and Keras. For today's hands-on task, I downloaded the famous MNIST dataset. Before jumping into building any models, I focused purely on getting to know the data. I used the matplotlib library to plot and visualize sample handwritten digits and thoroughly documented the dataset's size and structural dimensions. This careful data exploration was the perfect warm-up for the neural network training I will be doing next.
+
+Today bridged the gap between computational brute force and modern deep learning, perfectly preparing both my mindset and my workspace for the true neural network models ahead.
