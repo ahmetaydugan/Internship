@@ -1,0 +1,8 @@
+## Day 3 - RAG Architecture: Retrieval + Generation:
+On the third day of the week, I brought everything together. I combined the semantic retrieval system with a Large Language Model to build my first end-to-end RAG (Retrieval-Augmented Generation) pipeline.
+
+1. Concept: The Full RAG Pipeline and Fine-tuning vs. RAG
+I studied the complete RAG flow: converting a user's question into an embedding, retrieving the most relevant documents, passing those documents to the LLM as context, and finally generating a grounded answer. I also deeply analyzed why the industry often prefers RAG over fine-tuning models. RAG drastically lowers computational costs, ensures data remains fresh, enables the model to cite its sources, and allows us to update the knowledge base on the fly without ever retraining the model itself. Connecting this architectural decision to the classic "build vs. buy" and cost-benefit analysis logic I study in my Management Information Systems (MIS) coursework made the strategic business value of RAG perfectly clear.
+
+2. Practical Coding: First End-to-End RAG Application
+For today's practical task, I took the retrieval mechanism I built yesterday and seamlessly connected it to an LLM API using Groq. I ran my first mini RAG application from start to finish. I asked a specific question, watched the system instantly retrieve the most relevant document chunks from the knowledge base, and then observed the LLM generate a highly accurate, context-aware answer based solely on those retrieved documents. Seeing the entire pipeline work flawlessly in harmony was an incredibly rewarding milestone.
