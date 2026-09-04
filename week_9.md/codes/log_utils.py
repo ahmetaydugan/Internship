@@ -1,7 +1,13 @@
 import pandas as pd
+import os
 
-def veriyi_yukle(dosya_yolu="structured_logs.json"):
-    """JSON dosyasını okur ve Hafta 7 mantığıyla (1 dakikalık pencerelerde Mean + 2*Std) anomali tespiti yapar."""
+def veriyi_yukle(dosya_adi="structured_logs.json"):
+    """JSON dosyasını okur ve Hafta 7 mantığıyla anomali tespiti yapar."""
+    # log_utils.py dosyasının bulunduğu klasörün yolunu al
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    # JSON dosyasının tam yolunu oluştur
+    dosya_yolu = os.path.join(BASE_DIR, dosya_adi)
+
     try:
         df = pd.read_json(dosya_yolu)
         df['timestamp'] = pd.to_datetime(df['raw_log'].str.slice(0, 13), format='%y%m%d %H%M%S', errors='coerce')
@@ -51,7 +57,7 @@ def veriyi_yukle(dosya_yolu="structured_logs.json"):
         return pd.DataFrame()
 
 def cluster_stats(df):
-    """Log verisetine ait genel istatistikleri hesaplar."""
+    # ... (Bu kısım aynı kalacak) ...
     if df.empty:
         return {"toplam_log": 0, "anomali_sayisi": 0, "anomali_orani": 0.0, "template_sayisi": 0, "anormal_dakika": 0}
     
