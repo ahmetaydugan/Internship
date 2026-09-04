@@ -6,7 +6,7 @@ from log_utils import veriyi_yukle, cluster_stats
 # Sayfa yapılandırması
 st.set_page_config(page_title="Log Analiz Dashboard", layout="wide")
 
-st.title("Anomali Detay Görünümü (Refactor Edilmiş)")
+st.title("Anomali Detay Görünümü")
 
 
 # Veriyi log_utils üzerinden önbelleğe alarak yüklüyoruz
