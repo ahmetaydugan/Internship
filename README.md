@@ -1,6 +1,11 @@
 # Artificial Intelligence and System Log Analysis Internship Log:
 This repository is created to regularly track and report the artificial intelligence fundamentals I acquired, practical coding tasks, and daily operational processes throughout my 9-week Turkcell internship program.
 
+##  Live Project Demo
+
+As the final output of this 9-week program, you can access the end-to-end log analysis and anomaly detection dashboard deployed on Streamlit here: 
+👉 **[Live Dashboard: internship-anomali.streamlit.app](https://internship-anomali.streamlit.app)**
+
 ## Daily Work Rhythm
 
 The standard work schedule followed every day during the internship was as follows:
