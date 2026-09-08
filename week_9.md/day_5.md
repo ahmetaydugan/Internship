@@ -1,0 +1,2 @@
+### Day 5 - Final Presentation and Wrap-up:
+The culmination of my internship arrived. I delivered a 20-25 minute final presentation, featuring a live, end-to-end demo of my working dashboard. Following the presentation, we had a brief retrospective chat where I reflected on which weeks challenged me the most, what I enjoyed building, and shared my constructive feedback regarding the program structure. Wrapping up the session, I officially handed over the finalized GitHub repository, marking the successful completion of my software and artificial intelligence internship.
