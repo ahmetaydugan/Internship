@@ -1,0 +1,2 @@
+## Day 3 - Repository Cleanup:
+With the code fully functional, I turned my attention to repository maintenance. I meticulously reviewed the accumulated work of the past eight weeks, cleaning up redundant code, deleting unused files, and restructuring the folders for maximum clarity. Finally, I perfected the README.md file, ensuring it contained precise installation steps, usage instructions, an architectural summary, and the live deployment link.
