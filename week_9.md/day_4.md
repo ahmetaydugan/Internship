@@ -1,0 +1,2 @@
+## Day 4 - Preparation for the Final Presentation:
+As the final presentation loomed, I shifted from coding to storytelling. I synthesized the entire internship journey into a single, cohesive narrative—covering everything from the XOR Wall, Rule Inflation, and AlexNet, to LLMs, RAG, Log Parsing, and Anomaly Detection. I made sure to anchor each milestone with strong data points, such as the unexpected finding in Week 7 and the template reduction (17 to 14) in Week 6. I distilled this complex journey into a clean, impactful 6-8 slide deck.
