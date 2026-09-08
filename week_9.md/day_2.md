@@ -1,0 +1,2 @@
+## Day 2 - Label Correction and Final Polish:
+Focusing on the final polish of the user interface, I dedicated today to refining the anomaly details. I corrected the "Week 7 LLM Explanation" labels to accurately reflect that they were template-based, ensuring the data presented matched the underlying architecture perfectly. To cap it off, I deployed the polished dashboard to Streamlit Community Cloud, successfully generating a live, shareable URL for my portfolio.
